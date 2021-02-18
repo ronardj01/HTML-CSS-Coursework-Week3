@@ -13,3 +13,10 @@ p {
   font-size: 2.3vw;
 }
 
+footer p {
+   font-size: smaller;
+   font-family: 'Montserrat', sans-serif;
+}
+
+
+
